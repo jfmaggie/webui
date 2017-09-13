@@ -1,0 +1,6 @@
+<h1>Light sensor reads <%= @sensor %></h1>
+<a href="/?led=on">Turn the LED on!</a>
+<p>
+  <a href="/?led=off">Turn the LED off!</a>
+</p>
+<a href="/">Refresh</a>
